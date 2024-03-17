@@ -1,4 +1,4 @@
-# javascript Programming
+# javascript MASTERY
 
 ## Basic Javascript
 
